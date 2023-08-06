@@ -1,0 +1,101 @@
+{
+  "author:": "DsoftN",
+  "author:name": "Danijel Nisevic",
+  "author:e_mail": "dsoftn@gmail.com",
+  "   app": {
+    "value": "Chat",
+    "default_value": "Chat",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "Chat",
+    "description": "Python, PyQt5"
+  },
+  "client_ui_file_path": {
+    "value": "chat_lib_assets/ui_files/client_main.ui",
+    "default_value": "chat_lib_assets/ui_files/client_main.ui",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "It is usual for the location of this file to be in the directory where the application is located or in its subdirectory.",
+    "description": "Location of the Qt Designer file that contains the graphical interface."
+  },
+  "last_language_ID": {
+    "value": 0,
+    "default_value": 0,
+    "min_value": null,
+    "max_value": null,
+    "recommended": "",
+    "description": "The language used during the last session."
+  },
+  "stand_alone_win_icon_path": {
+    "value": "chat_lib_assets/images/semargl3.png",
+    "default_value": "chat_lib_assets/images/semargl3.png",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "",
+    "description": "Relative path to the image file."
+  },
+  "users_folder_path": {
+    "value": "chat_lib_assets/users/",
+    "default_value": "chat_lib_assets/users/",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "",
+    "description": "Relative path to the folder."
+  },
+  "date_format": {
+    "value": "%d.%m.%Y.",
+    "default_value": "%d.%m.%Y.",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "It depends on your local date settings.",
+    "description": "Date format string. (%d, %-d, %m, %-m, %y, %-y, %Y)"
+  },
+  "time_format": {
+    "value": "%H:%M:%S",
+    "default_value": "%H:%M:%S",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "It depends on your local time settings.",
+    "description": "Time format string. (%H, %-H, %I, %p, %M, %-M, %S, %-S)"
+  },
+  "login_ui_file_path": {
+    "value": "chat_lib_assets/ui_files/login.ui",
+    "default_value": "chat_lib_assets/ui_files/login.ui",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "It is usual for the location of this file to be in the directory where the application is located or in its subdirectory.",
+    "description": "Location of the Qt Designer file that contains the graphical interface."
+  },
+  "login_icon_path": {
+    "value": "chat_lib_assets/images/login.png",
+    "default_value": "chat_lib_assets/images/login.png",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "",
+    "description": "Relative path to the image file."
+  },
+  "last_user": {
+    "value": "",
+    "default_value": "",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "",
+    "description": "Last logged in user"
+  },
+  "new_user_ui_file_path": {
+    "value": "chat_lib_assets/ui_files/new_user.ui",
+    "default_value": "chat_lib_assets/ui_files/new_user.ui",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "It is usual for the location of this file to be in the directory where the application is located or in its subdirectory.",
+    "description": "Location of the Qt Designer file that contains the graphical interface."
+  },
+  "new_user_icon_path": {
+    "value": "chat_lib_assets/images/new_user.png",
+    "default_value": "chat_lib_assets/images/new_user.png",
+    "min_value": null,
+    "max_value": null,
+    "recommended": "",
+    "description": "Relative path to the image file."
+  }
+}
